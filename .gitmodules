@@ -1,0 +1,3 @@
+[submodule "course-work/Implementations/EventManager"]
+	path = course-work/Implementations/EventManager
+	url = https://github.com/Valioo/EventManager.git
